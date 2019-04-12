@@ -1,0 +1,20 @@
+.home{
+    padding-bottom: 3em;
+}
+.background{
+    background-image: url(/img/apt.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+}
+.overlay{
+    height: 650px;
+    background: rgba(0, 0, 0, 0.4);
+}
+.overlay-div{
+    height: 325px;
+    background-color: #5993EA;
+}
+.navbar{
+    background-color: #1A2F5D;
+}
